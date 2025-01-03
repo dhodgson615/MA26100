@@ -4,7 +4,7 @@
 
 **Ex.**
 
-- $P(x, y), Q(x, y)$ are two points in the plane. The vector from $P$ to $Q$ is the vector $\vec{PQ} = \vec{Q} - \vec{P} = (x_2 - x_1, y_2 - y_1)$.
+- $P(x, y)$ and $Q(x, y)$ are two points in the plane. The vector from $P$ to $Q$ is the vector $\vec{PQ} = \vec{Q} - \vec{P} = (x_2 - x_1, y_2 - y_1)$.
 
 - The vector $\vec{PQ}$ is the same as the vector $\vec{QP}$, but in the opposite direction.
 
